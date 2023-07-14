@@ -6,6 +6,7 @@ Este projeto foi desenvolvido como parte dos desafios do Bootcamp Potência Tech
 
 O projeto consiste em um sistema bancário simples implementado em Python. Desenvolvido como uma versão inicial, o sistema permite realizar apenas três operações básicas: depósito, saque e exibição de extrato.
 
+A segunda versão do projeto, feito otimizando o código com funções e listas está na branch otimizar.
 
 ---
 
